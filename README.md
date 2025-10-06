@@ -1,1 +1,1 @@
-Files with name A{n}_Erzunova.ipyhb is labs of Algorithm Analysis
+Files with name A{n}_Erzunova.ipynb is labs of Algorithm Analysis
